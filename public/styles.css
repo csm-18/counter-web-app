@@ -35,4 +35,5 @@ h1 {
 #counter-value {
   font-size: 5rem;
   min-width: 80px;
+  cursor: pointer;
 }

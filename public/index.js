@@ -11,3 +11,7 @@ function decrementCounter() {
     document.getElementById("counter-value").innerText = value;
   }
 }
+
+function resetCounter() {
+  document.getElementById("counter-value").innerText = 0;
+}
